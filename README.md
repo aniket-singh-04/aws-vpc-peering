@@ -15,7 +15,6 @@ The project follows a practical AWS networking lab setup in the Mumbai region (`
 - [Security Configuration](#security-configuration)
 - [Implementation Steps](#implementation-steps)
 - [Testing and Validation](#testing-and-validation)
-- [Repository Structure](#repository-structure)
 - [Security Best Practices](#security-best-practices)
 - [Cleanup](#cleanup)
 - [Learning Outcomes](#learning-outcomes)
